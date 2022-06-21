@@ -1395,3 +1395,15 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+<style>
+	body {background-color: white; font-family: arial;}
+	h1   {color: #808000;}
+	
+	.whatsappbutton { background-color: #7ACC72; /* Green */ border: none; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 20px; padding: 10px 20px; margin-top: 10px !important; width: fit-content; margin: auto; cursor: pointer }
+
+	.whatsappbutton span { vertical-align: text-bottom !important; }
+
+	.fa-whatsapp { margin-right: 10px; }
+	
+	</style>
